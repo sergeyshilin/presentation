@@ -1,2 +1,2 @@
 # presentation
-LaTex Presentation Sample
+LaTex (Beamer) Presentation Sample
